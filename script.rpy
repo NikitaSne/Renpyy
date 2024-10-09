@@ -9,6 +9,7 @@ define b = Character("Steve")
 
 # The game starts here.
        (Testing commits 1)
+(Testing commits 2)
 label start:
     $ left_place = False
     $ Look_person = False
