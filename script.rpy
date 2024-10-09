@@ -8,7 +8,7 @@ define a = Character("Harry")
 define b = Character("Steve")
 
 # The game starts here.
-
+       (Testing commits 1)
 label start:
     $ left_place = False
     $ Look_person = False
